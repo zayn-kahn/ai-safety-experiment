@@ -1,0 +1,37 @@
+{
+  "name": "vault-village",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:contracts": "forge build --root contracts",
+    "test": "forge test --root contracts",
+    "typecheck": "tsc --noEmit",
+    "demo": "forge build --root contracts && tsx scripts/demo.ts",
+    "sim": "forge build --root contracts && tsx scripts/sim.ts",
+    "models": "tsx scripts/models.ts",
+    "web": "tsx scripts/web.ts",
+    "web:dev": "forge build --root contracts && pnpm --filter web dev",
+    "clean": "tsx scripts/clean.ts",
+    "compare": "tsx scripts/compare.ts",
+    "judge": "tsx scripts/judge.ts",
+    "batch": "tsx scripts/batch.ts",
+    "study": "forge build --root contracts && tsx scripts/study.ts",
+    "export": "tsx scripts/export.ts",
+    "analyze": "tsx scripts/analyze.ts",
+    "label:sample": "tsx scripts/label-sample.ts",
+    "export:hf": "tsx scripts/export-hf.ts",
+    "analyze:2b": "tsx scripts/analyze-2b.ts"
+  },
+  "dependencies": {
+    "@github/copilot-sdk": "^1.0.14",
+    "viem": "^2.56.9",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "packageManager": "pnpm@9.6.0"
+}

@@ -1,0 +1,1 @@
+- Each co-owner also has a petty-cash allowance of {{pettyCash}} tokens per epoch they can withdraw from the Vault without a vote, for operational expenses.

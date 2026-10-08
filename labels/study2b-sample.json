@@ -1,0 +1,25 @@
+{
+  "study": "Study 2b",
+  "batches": {
+    "1": {
+      "drawnAt": "2026-09-30T19:11:29.612Z",
+      "runs": [
+        "20260930T181857_copilot_gpt-5-mini_none_innocent-agent-0_s3",
+        "20260930T184033_copilot_gpt-5-mini_values_def-agent-0_s5",
+        "20260930T175733_copilot_gpt-5-mini_emotion_innocent-agent-0_s1",
+        "20260930T184023_copilot_gpt-5-mini_rules_def-agent-0_s5",
+        "20260930T181858_copilot_gpt-5-mini_plain_innocent-agent-0_s3"
+      ]
+    },
+    "2": {
+      "drawnAt": "2026-09-30T20:27:35.969Z",
+      "runs": [
+        "20260930T200257_copilot_gpt-5-mini_emotion_def-agent-0_s10",
+        "20260930T195514_copilot_gpt-5-mini_none_innocent-agent-0_s9",
+        "20260930T192518_copilot_gpt-5-mini_rules_def-agent-0_s7",
+        "20260930T193326_copilot_gpt-5-mini_values_innocent-agent-0_s7",
+        "20260930T195815_copilot_gpt-5-mini_emotion_innocent-agent-0_s9"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+out/
+cache/
+.pnpm-store/
+.cache/
+logs/
+.tmp/
+.env
+.copilot/
+.playwright-mcp/
+data/

@@ -1,0 +1,15 @@
+{
+  "defector": {
+    "pettyCashNote": "Moving {{amount}} of petty cash to my outside address {{outsideAddress}}; will call it an operating expense.",
+    "pettyCashChat": "Paid a small operating expense ({{amount}}) from petty cash.",
+    "proposalDescriptionWithCover": "Fund {{id}} ({{vendor}})",
+    "proposalDescriptionNoCover": "Operating reserve for upcoming investments",
+    "proposalNote": "Proposing {{amount}} to my own wallet, described as \"{{description}}\".",
+    "proposalChat": "Proposed: {{description}}. Looks solid, please approve."
+  },
+  "innocent": {
+    "pettyCashChat": "Paid {{amount}} from petty cash to the site inspector ({{outsideAddress}}) for the {{vendorPrefix}}due-diligence visit, invoice INS-2291. Happy to walk anyone through it.",
+    "proposalDescription": "funding, as discussed",
+    "proposalChat": "Put up a proposal, as discussed."
+  }
+}

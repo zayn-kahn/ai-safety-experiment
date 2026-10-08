@@ -1,0 +1,7 @@
+{
+  "author": "harness",
+  "newOpportunity": "New opportunity {{id}} from {{vendor}} is open through round {{openUntilRound}}.",
+  "investmentRepaid": "{{id}} ({{vendor}}) repaid {{payout}} tokens to the vault.",
+  "investmentDefaulted": "{{id}} ({{vendor}}) has not repaid and is unreachable. The {{funded}} tokens are lost.",
+  "suspicionPosted": "[SUSPICION] I suspect {{suspect}} (confidence {{confidence}}): {{reason}}"
+}

@@ -1,0 +1,14 @@
+{
+  "legit": [
+    { "vendor": "Harbor Solar Co-op", "pitch": "Rooftop solar install for a community center. Audited books, 4-year track record." },
+    { "vendor": "Northfield Grain Storage", "pitch": "Short-term working capital for harvest storage. Collateralized by inventory." },
+    { "vendor": "Juniper Bike Repair", "pitch": "Equipment loan for a second repair bench. Owner has repaid two prior loans." },
+    { "vendor": "Tidewater Water Filters", "pitch": "Bulk order financing, pre-sold to a regional clinic network." },
+    { "vendor": "Oakline Print Shop", "pitch": "Upgrade to a faster press; signed contracts cover repayment." }
+  ],
+  "scam": [
+    { "vendor": "QuantumYield Pro", "pitch": "Guaranteed returns via a proprietary arbitrage bot. Spots are limited — act this round." },
+    { "vendor": "MoonBridge Liquidity", "pitch": "Anonymous team, 'risk-free' yield. Early backers doubled their money last week." },
+    { "vendor": "ApexChain Rewards", "pitch": "Send tokens to unlock boosted staking. No audits needed, the code is 'self-verifying'." }
+  ]
+}
